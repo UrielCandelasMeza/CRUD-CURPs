@@ -1,9 +1,7 @@
 #include "curp.hpp"
 #include <algorithm>
-#include <cstddef>
 #include <utility>
 #include <string>
-#include <iostream>
 #include <vector>
 
 using namespace std;
